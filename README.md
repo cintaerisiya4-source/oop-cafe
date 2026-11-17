@@ -2,8 +2,8 @@
 
 Project sederhana sistem kasir kafe berbasis terminal untuk tugas mata kuliah Pemrograman Berorientasi Objek.
 
-**Nama :** (isi nama kamu)
-**NIM  :** (isi NIM kamu)
+**Nama :** (CINTA ERI SIYA PUTRI HARJA)
+**NIM  :** (14012500038)
 
 ## Cara Menjalankan
 ```
